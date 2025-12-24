@@ -4,6 +4,7 @@ This repository contains a high-performance Reinforcement Learning (RL) agent ca
 
 The project focuses on using the **Soft Actor-Critic (SAC)** algorithm with automatic entropy tuning and observation normalization to achieve a smooth, energy-efficient walking gait.
 
+The Hardcore terrain files are also in this repo to experiment.
 ## 📊 Performance Results
 - **Peak Reward:** 303.42
 - **Average Reward (Solved):** ~295.0
